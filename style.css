@@ -33,3 +33,13 @@
   .mybutton:hover{
     background-color: #2b2b2b;
   }
+  #resultado{
+    background-color: white;
+    height: 25px;
+    width: 214px;
+    margin: 5px;
+    color: black;
+    text-align: right;
+    padding: 2px;
+    font-size: 23px;
+  }
